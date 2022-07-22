@@ -5,6 +5,7 @@ file: /courses/6-826-principles-of-computer-systems-spring-2002/2a531df07239b5fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4clar.pdf
 uid: 2a531df0-7239-b5fa-c23b-0f4eaf92cdb7
 ---
 [Problem Set 4 Clarifications]
-

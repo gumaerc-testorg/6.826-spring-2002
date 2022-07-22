@@ -5,6 +5,7 @@ file: /courses/6-826-principles-of-computer-systems-spring-2002/b7b1eb2eae7d51ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 31security.pdf
 uid: b7b1eb2e-ae7d-51ca-f49f-2206402fae8d
 ---
 Computer Security in the Real World
-

@@ -5,6 +5,7 @@ file: /courses/6-826-principles-of-computer-systems-spring-2002/5ffe1e8aa354be6f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
