@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-826-principles-of-computer-systems-spring-2002/5ffe1e8aa354be6f61ceb68a116f8392_20slides.pdf
+file_size: 37946
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
