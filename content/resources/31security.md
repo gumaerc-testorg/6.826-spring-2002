@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Computer Security in the Real World
-file: /courses/6-826-principles-of-computer-systems-spring-2002/b7b1eb2eae7d51caf49f2206402fae8d_31security.pdf
+file: /ol-ocw-studio-app/courses/6-826-principles-of-computer-systems-spring-2002/b7b1eb2eae7d51caf49f2206402fae8d_31security.pdf
 file_size: 281637
 file_type: application/pdf
 learning_resource_types:
