@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 2 Clarifications
-file: /ol-ocw-studio-app/courses/6-826-principles-of-computer-systems-spring-2002/84ec154c1f70b4bf16f6f11ed6bf565a_ps2clar.pdf
+file: /courses/6-826-principles-of-computer-systems-spring-2002/84ec154c1f70b4bf16f6f11ed6bf565a_ps2clar.pdf
 file_size: 38768
 file_type: application/pdf
 learning_resource_types:
